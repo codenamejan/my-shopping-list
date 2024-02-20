@@ -8,3 +8,5 @@ jam
 figs
 peaches
 grapes
+milk
+bread
